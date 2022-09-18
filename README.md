@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arihara-sudhan
+- 👋 Hi, I’m Ariharasudhan
 - 👀 I’m interested in coding forever
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on ...
