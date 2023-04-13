@@ -1,3 +1,4 @@
+<img src="" alt="ARI">
 - 👋 Hi, I’m Ariharasudhan
 - 👀 I’m interested in coding forever
 - 🌱 I’m currently learning a lot
